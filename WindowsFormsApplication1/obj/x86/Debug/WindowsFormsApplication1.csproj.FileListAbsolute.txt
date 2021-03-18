@@ -5,3 +5,5 @@ D:\ПИЭ-18\Ташлыков\PIE-18-Tashlykov-lab2\WindowsFormsApplication1\Win
 D:\ПИЭ-18\Ташлыков\PIE-18-Tashlykov-lab2\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
 D:\ПИЭ-18\Ташлыков\PIE-18-Tashlykov-lab2\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
 D:\ПИЭ-18\Ташлыков\PIE-18-Tashlykov-lab2\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\projects_git\PIE-18_Zhlobnitskiy\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\projects_git\PIE-18_Zhlobnitskiy\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
